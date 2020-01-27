@@ -1,4 +1,4 @@
-# iou
+# I Owe You App
 
 A new Flutter project.
 
